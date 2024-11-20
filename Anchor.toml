@@ -1,9 +1,9 @@
 [programs.localnet]
-tlbb_token = "Euueq2HBsDG4Dwf1QtHRrXCSnmdUQmBXJHqfsWDhYYX1"
+tlbb_token = "${TLBB_PROGRAM_ID}"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
-wallet = "~/.config/solana/id.json"
+cluster = "${ANCHOR_PROVIDER_URL}"
+wallet = "${ANCHOR_WALLET}"
