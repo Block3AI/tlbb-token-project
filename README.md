@@ -1,8 +1,14 @@
-The TLBB Token Project is a decentralized, charity-driven token initiative built on the Solana blockchain. This project leverages Rust for secure, high-performance smart contract development. Our aim is to create a transparent and impactful ecosystem supporting charitable causes.
+# TLBB Token Project
 
-Features
+A decentralized, charity-driven token initiative built on the Solana blockchain using Rust.
 
-	•	Decentralized Token (TLBB): Built on Solana using Rust.
-	•	Smart Contracts: Secure and optimized for token transactions and governance.
-	•	Charity Integration: A portion of each transaction contributes to pre-defined charitable initiatives.
-	•	Scalable Framework: Designed to support future expansions into Ethereum and other EVM-compatible chains.
+## Features
+- Decentralized TLBB token.
+- Smart contract for charity contributions.
+- Built with Solana's Anchor framework.
+
+## Development Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/tlbb-token-project.git
+   cd tlbb-token-project

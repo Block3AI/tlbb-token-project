@@ -1,0 +1,5 @@
+```toml
+[workspace]
+members = [
+    "programs/tlbb_token"
+]

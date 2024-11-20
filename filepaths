@@ -1,8 +1,0 @@
-tlbb-token-project/
-├── programs/                # Smart contract source code
-│   └── tlbb_token/          # TLBB token program
-├── tests/                   # End-to-end tests for smart contracts
-├── migrations/              # Deployment scripts
-├── Anchor.toml              # Anchor configuration file
-├── Cargo.toml               # Rust project configuration file
-└── README.md                # Project documentation

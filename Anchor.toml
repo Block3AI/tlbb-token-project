@@ -1,0 +1,9 @@
+[programs.localnet]
+tlbb_token = "target/deploy/tlbb_token.so"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
