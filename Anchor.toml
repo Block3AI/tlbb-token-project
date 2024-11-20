@@ -1,5 +1,5 @@
 [programs.localnet]
-tlbb_token = "target/deploy/tlbb_token.so"
+tlbb_token = "Euueq2HBsDG4Dwf1QtHRrXCSnmdUQmBXJHqfsWDhYYX1"
 
 [registry]
 url = "https://anchor.projectserum.com"
